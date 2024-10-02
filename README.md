@@ -1,3 +1,7 @@
+Flask based web application to show real time air quality index and pollutant level in the city using API.
+
+
+
 <b>Air Quality Monitoring Dashboard</b>
 
 
