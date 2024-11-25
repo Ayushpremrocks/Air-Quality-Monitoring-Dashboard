@@ -1,6 +1,9 @@
 # Air Quality Monitoring Dashboard 🌍
 
 The **Air Quality Monitoring Dashboard** is a web application that allows users to check the Air Quality Index (AQI) of any city. It provides real-time AQI data along with pollutant levels using the OpenWeatherMap API.
+
+![Screenshot of the model](assets/Weather-App-Image.png)
+
 ---
 ## Features ✨
 
